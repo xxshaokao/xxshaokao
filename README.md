@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @香香烧烤
+- 👀 I’m interested in BlueArchive
+- 🌱 I’m currently learning vue and web test
+- 💞️ I’m looking to collaborate on HonKai Star Rail
+- 📫 How to reach me 3081377784@qq.com
